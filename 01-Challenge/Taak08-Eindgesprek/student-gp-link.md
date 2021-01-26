@@ -1,6 +1,6 @@
 # Link naar je Github Pages
 
-Student : `studentnaam`
+Student : `Cornelius Opuku-Ware`
 
 Klas    : `klascode`
 
